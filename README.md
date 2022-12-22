@@ -6,15 +6,15 @@ and to do that,
 
 ```js:
  pip install pytube
-
 ```
 ## Process
 After the installation of the library, Fork and clone this repository onto your local server.
-> The next step will be to run the code suing your favouritte IDE. For my case i use vscode but you can use any of your choice. Run the code in the terminal and follow the simple instructed process.
+> The next step will be to run the code suing your favouritte Integreted Developers Environment (IDE). For my case i used vscode but you can use any of your choice. Run the code in the terminal and follow the simple instructed process.
 
 ## Download Processes
 > NOTE
-The process may differ on your internet. I would recommend you to make sure that your connected to a strong
+
+The process may differ according to your internet speed!. I would recommend you to make sure that your connected to a strong
 and first network ortherwise. the download process maight slow daown.
 
 Finally the process can not take 10-20 minutes for videos less than an hour length.
